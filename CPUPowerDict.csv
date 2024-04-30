@@ -1,0 +1,159 @@
+Manufacturer,Name,Codename,Socket,Process,L3 Cache,power(W),Released,cpu/gpu
+Intel,Core 3 100U,Raptor Lake-U,BGA 1744,10 nm,10 MB,15 W,"Jan 8th, 2024",CPU
+Intel,Core 3 100UL,Raptor Lake-U,BGA 1744,10 nm,10 MB,15 W,Unknown,CPU
+Intel,Core 5 120U,Raptor Lake-U,BGA 1744,10 nm,12 MB,15 W,"Jan 8th, 2024",CPU
+Intel,Core 5 120UL,Raptor Lake-U,BGA 1744,10 nm,12 MB,15 W,Unknown,CPU
+Intel,Core 5 130UL,Raptor Lake-U,BGA 1744,10 nm,12 MB,15 W,Unknown,CPU
+Intel,Core 5 220U,Raptor Lake-U,BGA 1744,10 nm,12 MB,15 W,Unknown,CPU
+Intel,Core 7 150U,Raptor Lake-U,BGA 1744,10 nm,12 MB,15 W,"Jan 8th, 2024",CPU
+Intel,Core 7 150UL,Raptor Lake-U,BGA 1744,10 nm,12 MB,15 W,Unknown,CPU
+Intel,Core 7 160UL,Raptor Lake-U,BGA 1744,10 nm,12 MB,15 W,Unknown,CPU
+Intel,Core 7 250U,Raptor Lake-U,BGA 1744,10 nm,12 MB,15 W,Unknown,CPU
+Intel,Core Ultra 5 125H,Meteor Lake,BGA 2049,7 nm,18 MB,28 W,"Dec 14th, 2023",CPU
+Intel,Core Ultra 5 135H,Meteor Lake,BGA 2049,7 nm,18 MB,28 W,"Dec 14th, 2023",CPU
+Intel,Core Ultra 7 155H,Meteor Lake,BGA 2049,7 nm,24 MB,28 W,"Dec 14th, 2023",CPU
+Intel,Core Ultra 7 165H,Meteor Lake,BGA 2049,7 nm,24 MB,28 W,"Dec 14th, 2023",CPU
+Intel,Core Ultra 9 185H,Meteor Lake,BGA 2049,7 nm,24 MB,45 W,"Dec 14th, 2023",CPU
+Intel,Core i3-14100,Raptor Lake-R,Socket 1700,10 nm,12 MB,60 W,"Jan 8th, 2024",CPU
+Intel,Core i3-14100F,Raptor Lake-R,Socket 1700,10 nm,12 MB,58 W,"Jan 8th, 2024",CPU
+Intel,Core i3-14100T,Raptor Lake-R,Socket 1700,10 nm,12 MB,35 W,"Jan 8th, 2024",CPU
+Intel,Core i5-13490F,Raptor Lake-S,Socket 1700,10 nm,24 MB,65 W,"Feb 10th, 2023",CPU
+Intel,Core i5-14400,Raptor Lake-R,Socket 1700,10 nm,20 MB,65 W,"Jan 8th, 2024",CPU
+Intel,Core i5-14400F,Raptor Lake-R,Socket 1700,10 nm,20 MB,65 W,"Jan 8th, 2024",CPU
+Intel,Core i5-14400T,Raptor Lake-R,Socket 1700,10 nm,20 MB,35 W,"Jan 8th, 2024",CPU
+Intel,Core i5-14450HX,Raptor Lake-HX,BGA 1964,10 nm,20 MB,55 W,"Jan 8th, 2024",CPU
+Intel,Core i5-14490F,Raptor Lake-R,Socket 1700,10 nm,24 MB,65 W,45292,CPU
+Intel,Core i5-14500,Raptor Lake-R,Socket 1700,10 nm,24 MB,65 W,"Jan 8th, 2024",CPU
+Intel,Core i5-14500HX,Raptor Lake-HX,BGA 1964,10 nm,24 MB,55 W,"Jan 8th, 2024",CPU
+Intel,Core i5-14500T,Raptor Lake-R,Socket 1700,10 nm,24 MB,35 W,"Jan 8th, 2024",CPU
+Intel,Core i5-14600,Raptor Lake-R,Socket 1700,10 nm,24 MB,65 W,"Jan 8th, 2024",CPU
+Intel,Core i5-14600K,Raptor Lake-R,Socket 1700,10 nm,24 MB,125 W,"Oct 17th, 2023",CPU
+Intel,Core i5-14600KF,Raptor Lake-R,Socket 1700,10 nm,24 MB,125 W,"Oct 17th, 2023",CPU
+Intel,Core i5-14600T,Raptor Lake-R,Socket 1700,10 nm,24 MB,35 W,"Jan 8th, 2024",CPU
+Intel,Core i7-13790F,Raptor Lake-S,Socket 1700,10 nm,33 MB,65 W,"Feb 10th, 2023",CPU
+Intel,Core i7-14650HX,Raptor Lake-HX,BGA 1964,10 nm,30 MB,55 W,"Jan 8th, 2024",CPU
+Intel,Core i7-14700,Raptor Lake-R,Socket 1700,10 nm,33 MB,65 W,"Jan 8th, 2024",CPU
+Intel,Core i7-14700F,Raptor Lake-R,Socket 1700,10 nm,33 MB,65 W,"Jan 8th, 2024",CPU
+Intel,Core i7-14700HX,Raptor Lake-HX,BGA 1964,10 nm,33 MB,55 W,"Jan 8th, 2024",CPU
+Intel,Core i7-14700K,Raptor Lake-R,Socket 1700,10 nm,33 MB,125 W,"Oct 17th, 2023",CPU
+Intel,Core i7-14700KF,Raptor Lake-R,Socket 1700,10 nm,33 MB,125 W,"Oct 17th, 2023",CPU
+Intel,Core i7-14700T,Raptor Lake-R,Socket 1700,10 nm,33 MB,35 W,"Jan 8th, 2024",CPU
+Intel,Core i9-14900,Raptor Lake-R,Socket 1700,10 nm,36 MB,65 W,"Jan 8th, 2024",CPU
+Intel,Core i9-14900F,Raptor Lake-R,Socket 1700,10 nm,36 MB,65 W,"Jan 8th, 2024",CPU
+Intel,Core i9-14900HX,Raptor Lake-HX,BGA 1964,10 nm,36 MB,55 W,"Jan 8th, 2024",CPU
+Intel,Core i9-14900K,Raptor Lake-R,Socket 1700,10 nm,36 MB,125 W,"Oct 17th, 2023",CPU
+Intel,Core i9-14900KF,Raptor Lake-R,Socket 1700,10 nm,36 MB,125 W,"Oct 17th, 2023",CPU
+Intel,Core i9-14900KS,Raptor Lake-R,Socket 1700,10 nm,36 MB,125 W,Unknown,CPU
+Intel,Core i9-14900T,Raptor Lake-R,Socket 1700,10 nm,36 MB,35 W,"Jan 8th, 2024",CPU
+Intel,Processor 300,Raptor Lake-S,Socket 1700,10 nm,6 MB,46 W,"Jan 8th, 2024",CPU
+Intel,Processor 300T,Raptor Lake-S,Socket 1700,10 nm,6 MB,35 W,"Jan 8th, 2024",CPU
+Intel,Xeon E-2414,Raptor Lake-S,Socket 1700,10 nm,12 MB,55 W,"Dec 14th, 2023",CPU
+Intel,Xeon E-2434,Raptor Lake-S,Socket 1700,10 nm,12 MB,55 W,"Dec 14th, 2023",CPU
+Intel,Xeon E-2436,Raptor Lake-S,Socket 1700,10 nm,18 MB,65 W,"Dec 14th, 2023",CPU
+Intel,Xeon E-2456,Raptor Lake-S,Socket 1700,10 nm,18 MB,80 W,"Dec 14th, 2023",CPU
+Intel,Xeon E-2468,Raptor Lake-S,Socket 1700,10 nm,24 MB,65 W,"Dec 14th, 2023",CPU
+Intel,Xeon E-2478,Raptor Lake-S,Socket 1700,10 nm,24 MB,80 W,"Dec 14th, 2023",CPU
+Intel,Xeon E-2486,Raptor Lake-S,Socket 1700,10 nm,18 MB,95 W,"Dec 14th, 2023",CPU
+Intel,Xeon E-2488,Raptor Lake-S,Socket 1700,10 nm,24 MB,95 W,"Dec 14th, 2023",CPU
+Intel,Xeon Gold 5512U,Emerald Rapids,Socket 4677,10 nm,52.5 MB,185 W,"Dec 14th, 2023",CPU
+Intel,Xeon Gold 5515+,Emerald Rapids,Socket 4677,10 nm,22.5 MB,165 W,"Dec 14th, 2023",CPU
+Intel,Xeon Gold 5520+,Emerald Rapids,Socket 4677,10 nm,52.5 MB,205 W,"Dec 14th, 2023",CPU
+Intel,Xeon Gold 6526Y,Emerald Rapids,Socket 4677,10 nm,37.5 MB,195 W,"Dec 14th, 2023",CPU
+Intel,Xeon Gold 6530,Emerald Rapids,Socket 4677,10 nm,160 MB,270 W,"Dec 14th, 2023",CPU
+Intel,Xeon Gold 6534,Emerald Rapids,Socket 4677,10 nm,22.5 MB,195 W,"Dec 14th, 2023",CPU
+Intel,Xeon Gold 6538N,Emerald Rapids,Socket 4677,10 nm,60 MB,270 W,"Dec 14th, 2023",CPU
+Intel,Xeon Gold 6542Y,Emerald Rapids,Socket 4677,10 nm,60 MB,250 W,"Dec 14th, 2023",CPU
+Intel,Xeon Gold 6544Y,Emerald Rapids,Socket 4677,10 nm,45 MB,270 W,"Dec 14th, 2023",CPU
+Intel,Xeon Gold 6548N,Emerald Rapids,Socket 4677,10 nm,60 MB,270 W,"Dec 14th, 2023",CPU
+Intel,Xeon Gold 6548Y+,Emerald Rapids,Socket 4677,10 nm,60 MB,250 W,"Dec 14th, 2023",CPU
+Intel,Xeon Gold 6554S,Emerald Rapids,Socket 4677,10 nm,180 MB,270 W,"Dec 14th, 2023",CPU
+Intel,Xeon Platinum 8558,Emerald Rapids,Socket 4677,10 nm,260 MB,330 W,"Dec 14th, 2023",CPU
+Intel,Xeon Platinum 8558P,Emerald Rapids,Socket 4677,10 nm,260 MB,350 W,"Dec 14th, 2023",CPU
+Intel,Xeon Platinum 8558U,Emerald Rapids,Socket 4677,10 nm,260 MB,300 W,"Dec 14th, 2023",CPU
+Intel,Xeon Platinum 8562Y+,Emerald Rapids,Socket 4677,10 nm,60 MB,300 W,"Dec 14th, 2023",CPU
+Intel,Xeon Platinum 8568Y+,Emerald Rapids,Socket 4677,10 nm,300 MB,350 W,"Dec 14th, 2023",CPU
+Intel,Xeon Platinum 8570,Emerald Rapids,Socket 4677,10 nm,300 MB,350 W,"Dec 14th, 2023",CPU
+Intel,Xeon Platinum 8571N,Emerald Rapids,Socket 4677,10 nm,300 MB,300 W,"Dec 14th, 2023",CPU
+Intel,Xeon Platinum 8580,Emerald Rapids,Socket 4677,10 nm,300 MB,350 W,"Dec 14th, 2023",CPU
+Intel,Xeon Platinum 8581V,Emerald Rapids,Socket 4677,10 nm,300 MB,270 W,"Dec 14th, 2023",CPU
+Intel,Xeon Platinum 8592+,Emerald Rapids,Socket 4677,10 nm,320 MB,350 W,"Dec 14th, 2023",CPU
+Intel,Xeon Platinum 8592V,Emerald Rapids,Socket 4677,10 nm,320 MB,330 W,"Dec 14th, 2023",CPU
+Intel,Xeon Platinum 8593Q,Emerald Rapids,Socket 4677,10 nm,320 MB,385 W,"Dec 14th, 2023",CPU
+Intel,Xeon Silver 3508U,Sapphire Rapids,Socket 4677,10 nm,22.5 MB,125 W,"Dec 14th, 2023",CPU
+Intel,Xeon Silver 4509Y,Sapphire Rapids,Socket 4677,10 nm,22.5 MB,125 W,"Dec 14th, 2023",CPU
+Intel,Xeon Silver 4510,Sapphire Rapids,Socket 4677,10 nm,30 MB,150 W,"Dec 14th, 2023",CPU
+Intel,Xeon Silver 4510T,Sapphire Rapids,Socket 4677,10 nm,30 MB,115 W,"Dec 14th, 2023",CPU
+Intel,Xeon Silver 4514Y,Emerald Rapids,Socket 4677,10 nm,30 MB,150 W,"Dec 14th, 2023",CPU
+Intel,Xeon Silver 4516Y+,Emerald Rapids,Socket 4677,10 nm,45 MB,185 W,"Dec 14th, 2023",CPU
+Intel,Xeon w3-2423,Sapphire Rapids,Socket 4677,10 nm,15 MB,120 W,"Feb 15th, 2023",CPU
+Intel,Xeon w3-2425,Sapphire Rapids,Socket 4677,10 nm,15 MB,130 W,"Feb 15th, 2023",CPU
+Intel,Xeon w3-2435,Sapphire Rapids,Socket 4677,10 nm,22.5 MB,165 W,"Feb 15th, 2023",CPU
+Intel,Xeon w5-2445,Sapphire Rapids,Socket 4677,10 nm,26.25 MB,175 W,"Feb 15th, 2023",CPU
+Intel,Xeon w5-2455X,Sapphire Rapids,Socket 4677,10 nm,30 MB,200 W,"Feb 15th, 2023",CPU
+Intel,Xeon w5-2465X,Sapphire Rapids,Socket 4677,10 nm,33.75 MB,200 W,"Feb 15th, 2023",CPU
+Intel,Xeon w5-3425,Sapphire Rapids,Socket 4677,10 nm,30 MB,270 W,"Feb 15th, 2023",CPU
+Intel,Xeon w5-3435X,Sapphire Rapids,Socket 4677,10 nm,45 MB,270 W,"Feb 15th, 2023",CPU
+Intel,Xeon w7-2475X,Sapphire Rapids,Socket 4677,10 nm,37.5 MB,225 W,"Feb 15th, 2023",CPU
+Intel,Xeon w7-2495X,Sapphire Rapids,Socket 4677,10 nm,45 MB,225 W,"Feb 15th, 2023",CPU
+Intel,Xeon w7-3445,Sapphire Rapids,Socket 4677,10 nm,52.5 MB,270 W,"Feb 15th, 2023",CPU
+Intel,Xeon w7-3455,Sapphire Rapids,Socket 4677,10 nm,67.5 MB,270 W,"Feb 15th, 2023",CPU
+Intel,Xeon w7-3465X,Sapphire Rapids,Socket 4677,10 nm,75 MB,300 W,"Feb 15th, 2023",CPU
+Intel,Xeon w9-3475X,Sapphire Rapids,Socket 4677,10 nm,82.5 MB,300 W,"Feb 15th, 2023",CPU
+Intel,Xeon w9-3495X,Sapphire Rapids,Socket 4677,10 nm,105 MB,350 W,"Feb 15th, 2023",CPU
+AMD,EPYC 7203,Milan,Socket SP3,7 nm,64 MB,120 W,"Sep 5th, 2023",CPU
+AMD,EPYC 7203P,Milan,Socket SP3,7 nm,64 MB,120 W,"Sep 5th, 2023",CPU
+AMD,EPYC 7303,Milan,Socket SP3,7 nm,64 MB,130 W,"Sep 5th, 2023",CPU
+AMD,EPYC 7303P,Milan,Socket SP3,7 nm,64 MB,130 W,"Sep 5th, 2023",CPU
+AMD,EPYC 7643P,Milan,Socket SP3,7 nm,256 MB,225 W,"Sep 5th, 2023",CPU
+AMD,EPYC 7663P,Milan,Socket SP3,7 nm,256 MB,240 W,"Sep 5th, 2023",CPU
+AMD,EPYC 8024P,Siena,Socket SP6,5 nm,32 MB,90 W,"Sep 18th, 2023",CPU
+AMD,EPYC 8024PN,Siena,Socket SP6,5 nm,32 MB,80 W,"Sep 18th, 2023",CPU
+AMD,EPYC 8124P,Siena,Socket SP6,5 nm,64 MB,125 W,"Sep 18th, 2023",CPU
+AMD,EPYC 8124PN,Siena,Socket SP6,5 nm,64 MB,100 W,"Sep 18th, 2023",CPU
+AMD,EPYC 8224P,Siena,Socket SP6,5 nm,64 MB,160 W,"Sep 18th, 2023",CPU
+AMD,EPYC 8224PN,Siena,Socket SP6,5 nm,64 MB,120 W,"Sep 18th, 2023",CPU
+AMD,EPYC 8324P,Siena,Socket SP6,5 nm,128 MB,180 W,"Sep 18th, 2023",CPU
+AMD,EPYC 8324PN,Siena,Socket SP6,5 nm,128 MB,130 W,"Sep 18th, 2023",CPU
+AMD,EPYC 8434P,Siena,Socket SP6,5 nm,128 MB,200 W,"Sep 18th, 2023",CPU
+AMD,EPYC 8434PN,Siena,Socket SP6,5 nm,128 MB,155 W,"Sep 18th, 2023",CPU
+AMD,EPYC 8534P,Siena,Socket SP6,5 nm,128 MB,200 W,"Sep 18th, 2023",CPU
+AMD,EPYC 8534PN,Siena,Socket SP6,5 nm,128 MB,175 W,"Sep 18th, 2023",CPU
+AMD,EPYC 9184X,Genoa-X,Socket SP5,5 nm,768 MB,320 W,"Jun 13th, 2023",CPU
+AMD,EPYC 9384X,Genoa-X,Socket SP5,5 nm,768 MB,320 W,"Jun 13th, 2023",CPU
+AMD,EPYC 9684X,Genoa-X,Socket SP5,5 nm,1152 MB,400 W,"Jun 13th, 2023",CPU
+AMD,EPYC 9734,Bergamo,Socket SP5,5 nm,256 MB,340 W,"Jun 13th, 2023",CPU
+AMD,EPYC 9754,Bergamo,Socket SP5,5 nm,256 MB,360 W,"Jun 13th, 2023",CPU
+AMD,EPYC 9754S,Bergamo,Socket SP5,5 nm,256 MB,360 W,"Jun 13th, 2023",CPU
+AMD,EPYC Embedded 9124,Genoa,Socket SP5,5 nm,64 MB,200 W,"Mar 14th, 2023",CPU
+AMD,EPYC Embedded 9254,Genoa,Socket SP5,5 nm,128 MB,200 W,"Mar 14th, 2023",CPU
+AMD,EPYC Embedded 9354,Genoa,Socket SP5,5 nm,256 MB,280 W,"Mar 14th, 2023",CPU
+AMD,EPYC Embedded 9354P,Genoa,Socket SP5,5 nm,256 MB,280 W,"Mar 14th, 2023",CPU
+AMD,EPYC Embedded 9454,Genoa,Socket SP5,5 nm,256 MB,290 W,"Mar 14th, 2023",CPU
+AMD,EPYC Embedded 9454P,Genoa,Socket SP5,5 nm,256 MB,290 W,"Mar 14th, 2023",CPU
+AMD,EPYC Embedded 9554,Genoa,Socket SP5,5 nm,256 MB,360 W,"Mar 14th, 2023",CPU
+AMD,EPYC Embedded 9554P,Genoa,Socket SP5,5 nm,256 MB,360 W,"Mar 14th, 2023",CPU
+AMD,EPYC Embedded 9654,Genoa,Socket SP5,5 nm,384 MB,360 W,"Mar 14th, 2023",CPU
+AMD,EPYC Embedded 9654P,Genoa,Socket SP5,5 nm,384 MB,360 W,"Mar 14th, 2023",CPU
+AMD,Ryzen 3 7440U,Phoenix2,Socket FP7,4 nm,8 MB,28 W,"May 3rd, 2023",CPU
+AMD,Ryzen 3 8440U,Hawk Point,Socket FP7,4 nm,8 MB,28 W,"Dec 6th, 2023",CPU
+AMD,Ryzen 3 PRO 7330U,Barcelo-R,Socket FP6,7 nm,8 MB,15 W,"Jan 4th, 2023",CPU
+AMD,Ryzen 5 5500GT,Cezanne,Socket AM4,7 nm,16 MB,65 W,"Jan 8th, 2024",CPU
+VIA,C3 Processor 1.0,Ezra-T,Socket 370,130 nm,N/A,10 W,"Jun 3rd, 2002",CPU
+VIA,C3 Processor 1.0A,Ezra-T,Socket 370,130 nm,N/A,10 W,"Jun 3rd, 2002",CPU
+VIA,C3 Processor 800A,Ezra,Socket 370,130 nm,N/A,8 W,"Sep 11th, 2001",CPU
+VIA,C3 Processor 866A,Ezra,Socket 370,130 nm,N/A,9 W,"Sep 11th, 2001",CPU
+VIA,Centaur CHA,CHA,VIA Socket 2084,16 nm,16 MB,70 W,Never Released,CPU
+VIA,Nano L2100,CNA,VIA nanoBGA2,65 nm,N/A,25 W,"May 29th, 2008",CPU
+VIA,Nano L2200,CNA,VIA nanoBGA2,65 nm,N/A,17 W,"May 29th, 2008",CPU
+VIA,Nano QuadCore C4650,CNR,VIA nanoBGA2,28 nm,N/A,18 W,2015,CPU
+VIA,Nano QuadCore C4650 ES,CNR,VIA Socket 2084,28 nm,N/A,18 W,Never Released,CPU
+VIA,Nano QuadCore C4700,ZX-C+,VIA nanoBGA2,28 nm,N/A,35 W,2015,CPU
+VIA,Nano QuadCore L4700,CNQ,VIA nanoBGA2,40 nm,N/A,28 W,"May 12th, 2011",CPU
+VIA,Nano QuadCore L4800,CNQ,VIA nanoBGA2,40 nm,N/A,28 W,"May 12th, 2011",CPU
+VIA,Nano U2225,CNA,VIA nanoBGA2,65 nm,N/A,10 W,40544,CPU
+VIA,Nano U2250,CNA,VIA nanoBGA2,65 nm,N/A,10 W,40544,CPU
+VIA,Nano U2300,CNA,VIA nanoBGA2,65 nm,N/A,5 W,"May 29th, 2008",CPU
+VIA,Nano U2350,CNA,VIA nanoBGA2,65 nm,N/A,8 W,"May 29th, 2008",CPU
+VIA,Nano U2400,CNA,VIA nanoBGA2,65 nm,N/A,8 W,"May 29th, 2008",CPU
+VIA,Nano U2500,CNA,VIA nanoBGA2,65 nm,N/A,7 W,"May 29th, 2008",CPU
+VIA,Nano X2 U4300,CNC,VIA nanoBGA2,40 nm,N/A,13 W,40544,CPU
