@@ -93,12 +93,6 @@ def get_system_info():
         writer.writerow(["CPU Model", cpu_model])
         writer.writerow(["GPU Model", gpu_model])
 
-def get_system_info(jetson):
-    # Extract system information from jtop
-    print(f"Model: {jetson.info['machine']}")
-    print(f"Jetpack Version: {jetson.info['jetpack']}")
-    print(f"L4T Version: {jetson.info['L4T']}")
-
 def log_usage_stats(jetson, file_path):
     with open(file_path, 'w', newline='') as csvfile:
         fieldnames = ['time', 'CPU_usage', 'GPU_usage', 'RAM_usage']
@@ -183,7 +177,6 @@ def calculate_energy(start_time,end_time):
 def main(file_path='./jtop_usage.csv'):
     try:
         with jtop() as jetson:
-            get_system_info(jetson)
             log_usage_stats(jetson, file_path)
     except JtopException as e:
         print(f"An error occurred with jtop: {e}")
