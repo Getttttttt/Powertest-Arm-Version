@@ -134,8 +134,8 @@ def fuzzy_search_power(model_type ,model_name ):
                 # 如果找到匹配，将功率值添加到列表中
                 matched_powers.append(row['power(W)'])
     if len(matched_powers) == 0:
-        if model_type == 'cpu': matched_powers = 120  
-        else:  matched_powers = 250
+        if model_type == 'cpu': matched_power = 120  
+        else:  matched_power = 250
     else: 
         matched_power = matched_powers[0]
         if model_type == 'cpu':
