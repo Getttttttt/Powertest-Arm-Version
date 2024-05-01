@@ -113,7 +113,7 @@ def log_usage_stats(jetson, file_path):
             print(f"Logged data at {row['time']}")
             
             # 检查是否已经过了7分钟
-            if time.time() - start_time >= 7 * 60:
+            if time.time() - start_time >= 1.5 * 60:
                 print("Time limit reached. Exiting loop.")
                 break
             
@@ -159,7 +159,7 @@ def calculate_energy(start_time,end_time):
     
     cpu_info = subprocess.check_output("cat /proc/cpuinfo | grep 'model name' | head -n 1", shell=True)
     cpu_model = cpu_info.decode().strip().split(":")[1].strip()
-    gpu_info = subprocess.check_output("lspci | grep 'VGA compatible controller'", shell=True)
+    gpu_info = subprocess.check_output("lspci | grep 'controller'", shell=True)
     gpu_model = gpu_info.decode().strip().split(":")[2].strip()
     
     cpu_power = fuzzy_search_power('cpu',cpu_model)
@@ -189,6 +189,6 @@ if __name__ == "__main__":
     main()
     
     end_time = int(time.time())
-    start_time = end_time - 300
+    start_time = end_time - 60
     
     calculate_energy(start_time, end_time)
