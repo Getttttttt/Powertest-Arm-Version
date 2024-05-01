@@ -153,7 +153,7 @@ def calculate_energy(start_time,end_time):
     
     filtered_df = df[(df['time'] >= start_time) & (df['time'] <= end_time)]
     
-    cpu_mean = filtered_df['cpu_usage'].mean()
+    cpu_mean = filtered_df['CPU_usage'].mean()
     gpu_mean = filtered_df['GPU_usage'].mean()
     ram_mean = filtered_df['RAM_usage'].mean()
     
