@@ -1,5 +1,15 @@
 # Powertest
 
+## 2024.05.01 Update for testing
+
+Running the jtop and power-matched versions of the code on the Arm, the run logs are as follows:
+
+![image-20240504213324139](assets/image-20240504213324139.png)
+
+The power averages and power consumption components can be successfully calculated for each dimension, and on the right side is a simple looping procedure to consume CPU computing power so that the results are not too small.
+
+![image-20240504213337568](assets/image-20240504213337568.png)
+
 ## 2024.04.29 Update for mapping type of CPU or GPU
 
 This repo is appliable for x86, if you are searching for the arm test version, you could click link here[] to access Arm version.
